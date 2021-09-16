@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url('evening-landscape-minimal_1580055578.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  align-items: center;
+  justify-content: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.data_container{
+  height: auto;
+  width: 60%;
+  margin: 0 auto;
+  color: aliceblue;
+  background-color: rgba(128, 164, 252,0.4);
+  border-radius: 20px;
+}
+
+input{
+  outline: none;
+  border: none;
+  border-radius: 3px;
+}
+
+
