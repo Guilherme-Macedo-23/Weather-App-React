@@ -1,5 +1,5 @@
 ![GIF 16-09-2021 16-37-52](https://user-images.githubusercontent.com/79206432/133683160-2e84f2a2-4ac9-461f-8130-25789ec89fd8.gif)
-<h1 align="center"> Weather App with React </h1>
+<h1 align="center"> Weather App in React </h1>
 <p align="center"> 🎉Weather App in React with OpenWeatherMap API that looks for the weather forecast anywhere in the world🥳 </p>
 
 <h1 align="center">🚀 Framework</h1>
